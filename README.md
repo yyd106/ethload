@@ -13,6 +13,7 @@ ethereumjs-tx@1.3.7
 ### 1 create teting accounts
 
 ```sh createAccounts.sh [Account Number]```
+
 Replace [Account Number] as how many transactions you want to send at one time.
 
 ### 2 Setup config items
@@ -44,6 +45,7 @@ For example:
 ### 3 Extra testing accounts and private keys
 
 Run script ExtractAccount.js to get private keys from new created accounts and store them in account.txt
+
 ```node ExtractAccount.js```
 
 ### 4 Start to test
