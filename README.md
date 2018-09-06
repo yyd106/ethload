@@ -3,6 +3,7 @@
 ## Enviroment
 MacOS/Linux
 geth@1.8.1;
+node@v9.2.0
 npm@6.4.0;
 web3@1.0.0-beta.35;
 keythereum@1.0.4
